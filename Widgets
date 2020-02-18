@@ -1,3 +1,5 @@
+#include "cs136.h"
+
 const int DEFAULT_BIN_SIZE = 10;
 const int DEFAULT_COGS_REQUIRED = 2;
 const int DEFAULT_SPROCKETS_REQUIRED = 3;
